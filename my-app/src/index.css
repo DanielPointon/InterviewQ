@@ -1,0 +1,18 @@
+button {
+  align-items: center;
+  background: grey;
+  color: white;
+  border-radius: 3px;
+  border: 1px solid grey;
+  cursor: pointer;
+  margin: 2px;
+  background-color: #707070;
+}
+
+table {
+  margin: auto;
+}
+
+body {
+  text-align: center;
+}
